@@ -1,2 +1,2 @@
 # bubble-game-projects
-this is Bubble game project with the halp od html css and Javascript.
+this is Bubble game project with the help od html css and Javascript.
